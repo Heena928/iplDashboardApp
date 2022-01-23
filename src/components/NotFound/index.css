@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+.heading {
+  color: #fff;
+  font-size: 30px;
+  font-family: 'Bree serif';
+  font-weight: 800;
+}
